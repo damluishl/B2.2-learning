@@ -1,0 +1,17 @@
+# Archivos temporales de Word (los que empiezan por ~$)
+~$*.doc*
+
+# Archivos temporales de copia de seguridad / recuperación
+*.tmp
+*.~.doc*
+
+# Archivos ocultos de sistema de Windows (suelen aparecer en carpetas con documentos)
+Thumbs.db
+desktop.ini
+
+# Archivos de la papelera o metadatos de macOS (si trabajas en Mac o con gente que lo use)
+.DS_Store
+._*
+
+# Archivos de guardado automático de Office
+AutoRecovery save of *.asd
