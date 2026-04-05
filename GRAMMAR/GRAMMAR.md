@@ -78,7 +78,7 @@ Si te bloqueas con el gerundio (-ing), casi todos estos verbos aceptan THAT + Su
 
 ## CONTRAST (Pero / Aunque)
 
-    ALTHOUGH / EVEN THOUGH (+ Sujeto + Verbo)
+    ALTHOUGH (oldou) / EVEN THOUGH (+ Sujeto + Verbo)
 
         Ejemplo: Although it was expensive, I bought it.
 
@@ -158,6 +158,7 @@ Reglas de oro para incontables
 ## PLURAL NOUNS (Sustantivos siempre plurales)
 
 Sustantivos que no tienen forma singular y necesitan el verbo en plural.
+
 Objetos de dos partes
 
     Trousers, shorts, jeans, scissors, glasses (gafas).

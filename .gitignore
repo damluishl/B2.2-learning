@@ -1,5 +1,6 @@
 # Archivos temporales de Word (los que empiezan por ~$)
 ~$*.doc*
+*.pdf
 
 # Archivos temporales de copia de seguridad / recuperación
 *.tmp
