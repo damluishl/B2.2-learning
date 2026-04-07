@@ -1,4 +1,260 @@
-# REPORTING VERBS
+# 1A Question Formation
+
+## Reglas básicas y errores comunes
+
+    Inversión: Siempre Auxiliar + Sujeto + Verbo (Have you finished?).
+
+    Preposiciones al final: En inglés, la preposición NO va al principio.
+
+        Who are you talking to? (NO: ~~To whom are you talking?~~).
+
+        What are they talking about?
+
+    Questions without Auxiliary (Subject Questions): Si preguntas por el sujeto (quién hizo la acción), no usas do/does/did.
+
+        Who wrote this? (Sujeto: "Who").
+
+        How many people follow you?
+    
+    Imagínate que alguien ha roto un cristal:
+
+        Pregunta al Sujeto: Who broke the window? (No sé quién ha sido, el "Who" es el responsable). Sin auxiliar.
+
+        Pregunta al Objeto: What did you break? (Sé que tú has roto algo, pregunto por el objeto roto). Con auxiliar "did".
+
+## Negative Questions (El toque de actitud)
+
+Se usan para mostrar sorpresa o para que alguien te dé la razón.
+
+    Doesn't he live here? (¿No vive aquí? Pensaba que sí).
+
+    Didn't you like the film? (¿No te gustó? ¡A mí me encantó!).
+
+## Indirect Questions (Puntos extra en Writing/Speaking)
+
+Son las preguntas "educadas". Lo más importante es que NO tienen orden de pregunta, sino de frase normal (Sujeto + Verbo).
+
+    Estructura: Frase introductoria + Sujeto + Verbo.
+
+    No se usa do/does/did.
+
+        Directa: Where is the station?
+
+        Indirecta: Could you tell me where the station is? (NO: ~~where is the station~~).
+
+        Directa: Where does he live?
+
+        Indirecta: Do you know where he lives? (Fíjate en la "-s").
+
+Frases introductorias típicas:
+
+    Could you tell me...
+
+    Do you know... / Do you think...
+
+    I wonder... (No lleva signo de interrogación al final).
+
+    I’m not sure... / I’d like to know...
+
+El uso de IF / WHETHER
+
+Si la pregunta original es de sí o no (no empieza por Wh-), usamos if o whether.
+
+    Directa: Is Mark coming?
+
+    Indirecta: Do you know if (whether) Mark is coming?
+
+## EOI Trick: "The Trap"
+
+En el examen oral, si el examinador te pregunta algo con una indirecta tipo: "Can you tell me what your favorite hobby is?", no respondas con otra pregunta.
+
+Y en el Writing, si escribes a un hotel o a un jefe (Formal Email), usa siempre indirectas. En vez de "How much is it?", pon: "I was wondering if you could tell me how much it is." -> Eso es B2.2 de manual.
+
+# 1B: Auxiliary Verbs (The "Natural Sound" Kit)
+
+Usamos los auxiliares (do, be, have, will, can...) para cinco cosas clave:
+
+## Evitar repeticiones (Ellipsis)
+
+No repitas todo el verbo. Usa el auxiliar que toque.
+
+    I like cats, but my husband doesn't. (En vez de "...doesn't like cats").
+
+    Sally's coming tonight, but Angela isn't.
+
+## Coincidir o Disentir (So / Neither)
+
+Para decir "yo también" o "yo tampoco".
+
+    So + Aux + Sujeto (Para frases positivas):
+
+        "I loved the film." -> "So did I."
+
+    Neither + Aux + Sujeto (Para frases negativas):
+
+        "I haven't finished." -> "Neither have I."
+
+    Ojo: Después de Neither, el auxiliar va en POSITIVO. (~~Neither didn't I~~).
+
+## Mostrar interés (Reply Questions)
+
+Es el típico "¿Ah, sí?" o "¿De verdad?". Se usa el auxiliar que la otra persona ha usado.
+
+    "I went to a psychic yesterday." -> "Did you?"
+
+    "I’ll make dinner." -> "Will you? That's great!"
+
+## Dar énfasis (The Emphatic "Do")
+
+Esto es oro puro para el Writing y el Speaking de la EOI. Si quieres reforzar que algo es verdad o contradecir a alguien, mete el auxiliar antes del verbo.
+
+    "You didn't lock the door!" -> "I did lock it! I remember."
+
+    "She doesn't like me." -> "She does like you, she's just shy."
+
+    Tip: Al hablar, ese auxiliar se pronuncia con más fuerza.
+
+## Question Tags (¿Verdad?)
+
+Para confirmar información o buscar acuerdo.
+
+    Frase (+) → Tag (-): It’s a nice day, isn’t it?
+
+    Frase (-) → Tag (+): You won’t forget, will you?
+
+## EOI Trick: "The Emphasis"
+
+Si en el examen oral te dicen algo como: "I don't think young people care about politics", puedes responder con énfasis para ganar puntos:
+
+    "I disagree. I think they do care, but they express it differently."
+
+¿Cómo llevas las "Question Tags"? Hay una que siempre cae en los exámenes porque es irregular:
+
+    "I am late, aren't I?" (En lugar de ~~amn't I~~).
+
+# 2A: Present Perfect (Simple vs Continuous)
+
+Olvida las listas interminables. La diferencia real se resume en Resultado vs Proceso.
+
+## Present Perfect Simple (Resultado/Cantidad)
+
+Lo usas cuando lo importante es que la acción ha terminado o quieres decir cuánto/cuántas veces.
+
+    Fórmula: Have / Has + Participio
+
+    Enfoque: El resultado final. (I’ve painted the kitchen -> Ya está terminada, mira qué bonita).
+
+    Palabras clave: How much, How many, ever, never, already, yet.
+
+    EOI Tip: Úsalo con verbos de estado que no tienen "-ing" (know, believe, be, like).
+
+        I've known him for years. (NUNCA: ~~I've been knowing~~).
+
+## Present Perfect Continuous (Proceso/Duración)
+
+Lo usas cuando lo importante es el tiempo que llevas haciendo algo o la acción es temporal/repetitiva.
+
+    Fórmula: Have / Has + been + Verbo-ing
+
+    Enfoque: La actividad en sí, no si terminó. (I’ve been painting the kitchen -> Tengo manchas de pintura, sigo en ello).
+
+    Palabras clave: How long...?, for, since, all day/week.
+
+    EOI Tip: Úsalo para quejarte o explicar un cansancio presente.
+
+        "I'm exhausted because I've been working all night."
+
+# 2B: Adjectives as Nouns & Adjective Order
+
+## Adjectives as Nouns (Adjetivos como sustantivos)
+
+En inglés puedes usar un adjetivo para referirte a un grupo de personas en general, pero siempre tiene que llevar THE delante.
+
+    Grupos sociales: The rich, the poor, the unemployed, the blind, the deaf, the elderly.
+
+        Ojo: Se consideran plurales.
+
+        Correcto: "The poor are struggling."
+
+        Incorrecto: "The poor is struggling" o "The poors..." (Los adjetivos no llevan 's').
+
+    Nacionalidades: Solo con las que acaban en -ch, -sh, -ese, -ss.
+
+        The French, the Spanish, the Japanese, the Swiss.
+
+        Si no acaban así, se usa el plural normal: The Italians, the Brazilians, the Poles.
+
+    Para una sola persona: No puedes decir "a rich". Tienes que decir "a rich man" o "a Japanese woman".
+
+## Adjective Order (El orden de los adjetivos)
+
+Si quieres usar varios adjetivos para describir algo, no puedes ponerlos como quieras. Hay un orden mental que los ingleses siguen a rajatabla.
+
+Regla de oro: La Opinión siempre va lo primero, y el Material siempre va pegado al Nombre.
+
+Para el examen, apréndete este orden (abreviado - OSASh OM):
+
+    Opinion: Beautiful, expensive, horrible.
+
+    Size: Big, tiny, long.
+
+    Age: Old, brand new, ancient.
+
+    Shape/Color/Pattern: Round, purple, striped.
+
+    Origin: Italian, Japanese.
+
+    Material: Leather, wooden, silk.
+
+Ejemplo B2.2: "I bought a beautiful (1. Opinión) large (2. Tamaño) old (3. Edad) Italian (5. Origen) leather (6. Material) sofa."
+
+## EOI Trick: "The Opinion First"
+
+Si te lías en el examen con el orden, recuerda: lo que tú piensas (opinión) va antes que lo que la cosa es (hechos).
+
+    Correcto: A lovely (opinión) sunny (hecho) day.
+
+    Incorrecto: ~~A sunny lovely day.~~
+
+# 3A: Narrative Tenses (El arte de contar historias)
+
+Para contar una buena historia, necesitas combinar estos 4 tiempos. Imagina que es una película:
+
+## Past Simple (La acción principal)
+
+Son los eventos que hacen que la historia avance. Uno detrás de otro.
+
+    We arrived and checked in.
+
+    EOI Tip: Úsalo para las acciones "cortas" que interrumpen algo.
+
+## Past Continuous (El decorado)
+
+Sirve para describir qué estaba pasando de fondo o en un momento concreto.
+
+    Most people were reading or trying to sleep.
+
+    EOI Tip: Úsalo al principio de tu historia para "preparar la escena".
+
+## Past Perfect (El "pasado del pasado")
+
+Para hablar de algo que ocurrió antes del momento en el que estás contando la historia.
+
+    I realized I'd left my keys in the taxi.
+
+    EOI Tip: Es fundamental para dar contexto. Sin él, el examinador pensará que solo sabes usar Past Simple.
+
+## Past Perfect Continuous (La duración previa)
+
+Para acciones largas que empezaron antes del evento principal y continuaron hasta ese momento.
+
+    We had been flying for two hours when suddenly...
+
+    Diferencia clave: * Past Perfect Simple: Enfatiza que la acción terminó.
+
+        Past Perfect Continuous: Enfatiza cuánto tiempo duró la acción.
+
+# 8B REPORTING VERBS
 
 ## VERBO + TO + INFINITIVO
 
@@ -74,7 +330,7 @@ Si te bloqueas con el gerundio (-ing), casi todos estos verbos aceptan THAT + Su
 
     Opción B (Segura): He admitted that he had broken the window.
 
-# CLAUSES OF CONTRAST AND PURPOSE
+# 9A CLAUSES OF CONTRAST AND PURPOSE
 
 ## CONTRAST (Pero / Aunque)
 
@@ -122,7 +378,7 @@ Para subir la nota en tus redacciones, cambia el estilo simple por este:
 
     Nivel B2.2: Despite being sick, I went to work.
 
-# UNCOUNTABLE AND PLURAL NOUNS (BLOQUE 9B)
+# 9B UNCOUNTABLE AND PLURAL NOUNS (BLOQUE 9B)
 
 ## UNCOUNTABLE NOUNS (Incontables)
 
@@ -210,7 +466,7 @@ EOI CHECKLIST: ERRORES A EVITAR
     "The police has..." → Error. Lo correcto: The police have...
 
 
-# QUANTIFIERS (BLOQUE 10A)
+# 10A QUANTIFIERS
 
 ## ALL, EVERY, MOST
 
@@ -302,7 +558,7 @@ Uso de "OF"
 
     Es opcional con All (of) the o Both (of) the.
 
-# ARTICLES: A/AN, THE, NO ARTICLE (BLOQUE 10B)
+# 10B ARTICLES: A/AN, THE, NO ARTICLE (BLOQUE 10B)
 
 ## REGLAS BÁSICAS
 
