@@ -254,6 +254,78 @@ Para acciones largas que empezaron antes del evento principal y continuaron hast
 
         Past Perfect Continuous: Enfatiza cuánto tiempo duró la acción.
 
+# EXTRA: NARRATIVE TENSES SUMMARY
+
+## NARRATIVE TENSES (Para contar la historia)
+
+Se usan para hablar de eventos que ocurrieron y terminaron en el pasado.
+
+    PAST SIMPLE
+
+        Uso: La acción principal. Hechos puntuales que van uno detrás de otro.
+
+        Key words: Then, Suddenly
+
+        Ejemplo: I woke up, brushed my teeth and left the house.
+
+    PAST CONTINUOUS
+
+        Uso: El decorado. Acciones largas que estaban pasando de fondo cuando ocurrió la historia.
+
+        Key words: While, As
+
+        Ejemplo: The birds were singing and I was feeling great.
+
+    PAST PERFECT (Simple)
+
+        Uso: El "flashback". Algo que pasó ANTES de que empezara tu historia.
+
+        Key words: Because, Already
+
+        Ejemplo: When I arrived at the party, Mark had already gone home.
+
+    PAST PERFECT CONTINUOUS
+
+        Uso: Duración o causa en el pasado. Cuánto tiempo llevaba pasando algo antes del evento principal.
+
+        Key words: For, Since
+
+        Ejemplo: I was exhausted because I had been driving for eight hours.
+
+🔗 PRESENT PERFECT (Para conectar con el ahora)
+
+Se usan para hablar de experiencias o acciones con un pie en el presente.
+
+    PRESENT PERFECT SIMPLE
+
+        Uso: Resultados y cantidad. Experiencias de vida (sin decir cuándo) o cosas recién terminadas.
+
+        Ejemplo: I have seen that movie three times. / I have just finished my homework.
+
+    PRESENT PERFECT CONTINUOUS
+
+        Uso: Proceso y duración actual. Acciones que empezaron atrás y siguen ahora (o acaban de parar y se nota el efecto).
+
+        Ejemplo: I have been studying English for five years. (Y sigo en ello).
+
+💡 RESUMEN DE DIFERENCIAS CLAVE (Para no fallar)
+
+    ¿Pasado o Presente?
+
+        Si dices cuándo pasó (yesterday, in 2010): Past Simple.
+
+        Si no dices cuándo o hablas de "hasta ahora": Present Perfect.
+
+    ¿Acabado o en Proceso?
+
+        Si lo importante es el resultado (he pintado la pared): Simple.
+
+        Si lo importante es el esfuerzo o tiempo (llevo pintando toda la tarde): Continuous.
+
+    ¿El "Flashback" perfecto?
+
+        Si estás contando algo en pasado y quieres ir más atrás: Past Perfect.
+
 # 8B REPORTING VERBS
 
 ## VERBO + TO + INFINITIVO
