@@ -546,45 +546,6 @@ A veces, una acción en el pasado tiene un resultado en el presente. Aquí es do
 
         If you had come to class more often, you would have passed. (Ya hiciste el examen y suspendiste).
 
-¡Muy bien ese primer bloque de 4B! Lo has clavado al 100%. Sin embargo, en el bloque de 5A (los condicionales irreales) se nos han cruzado un poco los cables con las estructuras. ¡Es normal! Son las piezas de LEGO más difíciles de encajar en este nivel.
-
-Aquí tienes la revisión detallada para que veas dónde ha estado el lío:
-OK Revisión Bloque 4B (Future Time Clauses)
-
-    Finish: ¡Perfecto! Usas presente para hablar del futuro tras "until".
-
-    In case: ¡Exacto! Es una precaución (lo cojo por si acaso), no una condición.
-
-    Get: ¡Correcto! Nunca usamos "will" después de "as soon as".
-
-FAIL Revisión Bloque 5A (Unreal Conditionals)
-
-Aquí es donde tenemos que ajustar las "fórmulas":
-
-1. Frase del pasado (3rd Conditional)
-
-    Tu respuesta: would have know, had bought
-
-    Corrección: If I had known it was your birthday yesterday, I would have bought you a present.
-
-    ¿Por qué?: La estructura es If + Past Perfect (had + participio) para la condición, y would have + participio para el resultado. Recuerda: el "had" siempre va con el "if" en el pasado.
-
-2. Frase Mixta (Pasado ➔ Presente)
-
-    Tu respuesta: wouldn't be, would have gone
-
-    Corrección: I wouldn't be so tired now if I had gone to bed earlier last night.
-
-    ¿Por qué?: El resultado es ahora (wouldn't be), pero la condición fue anoche (had gone). ¡Casi lo tienes! Solo invertiste el orden de los tiempos.
-
-3. Consejo (2nd Conditional)
-
-    Tu respuesta: were, won't marry
-
-    Corrección: If I were you, I wouldn't marry him!
-
-    ¿Por qué?: Si usas "were" (pasado), la segunda parte tiene que ser "would". El "won't" solo se usa en el 1er condicional (cosas reales).
-
 ## Apuntes para corregir (Markdown ready)
 
 La "fórmula mágica" para no fallar:
@@ -642,6 +603,279 @@ REPASO DE NIVELES (Para no liarte)
     Queja sobre comportamiento ➔ Usa Would (I wish they would stop...)
 
     Pasado arrepentido ➔ Usa Past Perfect (I wish I had been...)
+
+# 6A: Used to, Be used to & Get used to
+
+Este trío suele dar problemas porque se parecen físicamente, pero funcionan de forma totalmente distinta. La clave está en mirar qué viene después y qué tiempo verbal estás usando.
+
+## Hablar del pasado: Used to / Would
+
+Usamos estas estructuras para hábitos o estados que ya no ocurren.
+
+    Used to + Infinitivo: Sirve para todo en el pasado.
+
+        Hábitos: "I used to smoke." (Ya no fumo).
+
+        Estados: "I used to live in Madrid." (Ya no vivo allí).
+
+    Would + Infinitivo: Solo para acciones repetidas (hábitos), NUNCA para estados.
+
+        Correcto: "Every summer, we would go to the beach."
+
+        Incorrecto: "I would have a big house." (Aquí debes usar used to).
+
+    Ojo con el presente: "Used to" NO existe para el presente. Si quieres hablar de un hábito actual, usa el Present Simple + Usually.
+
+        Error común: "I use to go to the gym." -> Correcto: "I usually go to the gym."
+
+## Hablar de familiaridad: Be used to
+
+Indica que algo ya es normal o familiar para ti. Ya has pasado el proceso de adaptación.
+
+    Estructura: Be used to + Gerundio (-ing) o Sustantivo.
+
+    Ejemplo: "I am used to waking up early." (Ya no me cuesta esfuerzo, es mi rutina).
+
+    Nota: Puedes conjugar el verbo "be" en cualquier tiempo (I was used to, I will be used to...).
+
+## Hablar del proceso: Get used to
+
+Indica el proceso de adaptación. Es el paso de "esto es raro" a "esto es normal".
+
+    Estructura: Get used to + Gerundio (-ing) o Sustantivo.
+
+    Ejemplo: "I'm slowly getting used to driving on the left." (Estoy en ello, aún me cuesta un poco).
+
+    Matiz: Se traduce a menudo como "acostumbrarse a".
+
+# 6B: Gerunds and Infinitives
+
+## El Gerundio (-ing) = Mirar hacia ATRÁS o al CENTRO
+
+El gerundio se usa cuando la acción ya es conocida, ya ha empezado o es algo general que ya has experimentado.
+
+    Sentimientos: I love / I hate / I enjoy (Hablas de algo que ya conoces y sientes).
+
+    Acabar algo: I finished / I stopped (Hablas de algo que ya estabas haciendo).
+
+    Recuerdos: I remember meeting her (El encuentro ya pasó, está en tu memoria).
+
+## El Infinitivo (to + verbo) = Mirar hacia DELANTE
+
+El infinitivo se usa para cosas que aún no han pasado, objetivos o intenciones.
+
+    Deseos/Planes: I want / I hope / I plan / I'd like (Aún no ha ocurrido, vas "hacia" ello).
+
+    Promesas: I promise to call (La llamada es en el futuro).
+
+    Obligaciones: I remember to lock the door (Primero te acuerdas y luego, en el futuro inmediato, cierras).
+
+La excepción que confirma la regla: "Movement"
+
+Lo único donde el movimiento influye es en el uso de GO + -ing para actividades de ocio:
+
+    Go swimming, go shopping, go dancing, go skiing.
+    Aquí sí, el -ing describe la actividad deportiva o de ocio que realizas mientras te desplazas.
+
+Resumen para tu VS Code:
+
+    No pienses en "movimiento", piensa en "momento":
+
+        ¿La acción ya existe o es un gusto general? ➔ -ing
+
+        ¿La acción es un objetivo o algo que vas a hacer después? ➔ to + infinitivo
+
+# 7A: Past Modals (Modales de Pasado)
+
+La estructura siempre es la misma: Modal + HAVE + Participio (3ª columna). Lo único que cambia es el nivel de seguridad que tienes sobre lo que pasó.
+
+## Especulaciones (Deducciones)
+
+Las usamos cuando intentamos adivinar qué pasó basándonos en pruebas.
+
+    Must have + Participio: Estás 90-100% seguro de que algo ocurrió.
+
+        Example: "I must have left my phone at Anna's." (Estoy segurísimo, la última vez lo vi allí).
+
+    May / Might / Could have + Participio: Es posible, pero no estás seguro. Es una teoría.
+
+        Example: "She might have forgotten about the meeting." (Quizás se le olvidó).
+
+    Can't have / Couldn't have + Participio: Estás 90-100% seguro de que algo NO ocurrió.
+
+        Example: "She can't have gone to work. Her car is still there." (Es imposible que se haya ido).
+
+        ¡Ojo! El opuesto de must have es can't have. NUNCA digas "mustn't have" para deducciones.
+
+## Remordimientos y Críticas
+
+Aquí no adivinamos, sabemos lo que pasó y opinamos sobre si estuvo bien o mal.
+
+    Should have + Participio: Debería haberlo hecho (pero no lo hice). Se usa para arrepentirse o criticar a otros.
+
+        Example: "I should have studied more." (No estudié lo suficiente y ahora me arrepiento).
+
+    Shouldn't have + Participio: No debería haberlo hecho (pero lo hice).
+
+        Example: "You shouldn't have said that to her." (Se lo dijiste y fue un error).
+
+    Ought to have: Es exactamente lo mismo que should have, pero más formal. No suele usarse en negativo.
+
+## El "Warning" del Profe: Must vs. Should
+
+Este es el fallo que más corrijo en los exámenes de certificación. No los confundas:
+
+    She must have phoned: Estoy seguro de que llamó (Deducción).
+
+    She should have phoned: Tendría que haber llamado pero no lo hizo (Crítica/Obligación incumplida).
+
+¡Venga, que ya casi tienes el libro completo! La unidad 7B es de esas que parecen fáciles pero tienen "trampa" en los exámenes de la EOI porque mezclan preposiciones y conjunciones. Se trata de cómo usamos los sentidos para describir el mundo.
+
+Aquí tienes el resumen para tu VS Code. He simplificado las reglas para que no tengas que memorizar cada caso, sino entender qué palabra viene después.
+
+# 7B: Verbs of the Senses (Look, Feel, Smell, Sound, Taste)
+
+La regla de oro aquí es: el verbo no cambia, lo que cambia es el "pegamento" que usamos después.
+
+## Directo al Adjetivo
+
+Si solo quieres describir una cualidad, no necesitas nada entre el verbo y el adjetivo.
+
+    Estructura: Verbo + Adjetivo.
+
+    Ejemplos: * "You look tired."
+
+        "This pizza tastes good."
+
+## Comparando con un Sustantivo (Like)
+
+Si quieres decir que algo se parece a "otra cosa" (un nombre), necesitas el like.
+
+    Estructura: Verbo + LIKE + Sustantivo.
+
+    Ejemplos:
+
+        "You look like your father." (Te pareces a él).
+
+        "It smells like garlic." (Huele a ajo).
+
+## Describiendo una Situación (As if / As though)
+
+Si después viene una frase entera (con su sujeto y su verbo), usamos as if (o as though).
+
+    Estructura: Verbo + AS IF + Clause (Sujeto + Verbo).
+
+    Ejemplos:
+
+        "It sounds as if it's raining." (Parece que está lloviendo).
+
+        "She looks as though she's been crying." (Parece que ha estado llorando).
+
+## Notas de Nivel B2.2 (Puntos extra)
+
+Look vs. Seem
+
+    Look: Se limita a lo que ves físicamente (apariencia).
+
+    Seem: Es una impresión general, puede ser por lo que te han dicho o por cómo actúa alguien.
+
+        Ejemplo: "He looks rich" (lleva ropa cara) vs "He seems rich" (tiene modales de rico o habla de sus yates).
+
+El comodín: "Feel like"
+
+Ojo, que feel like tiene un significado extra que cae mucho: tener ganas de.
+
+    Estructura: Feel like + -ing / Sustantivo.
+
+    Ejemplo: "I feel like going for a walk" (Me apetece dar un paseo).
+
+Usos de "As" (El multifunciones)
+
+El cuadro de la derecha te recuerda que as no es solo para los sentidos:
+
+    Trabajo: "She works as a nurse" (Ella ES enfermera).
+
+    Comparación: "As tall as me".
+
+    Razón (Porque): "As it was raining, we stayed in".
+
+    Tiempo (Mientras): "As they were leaving, the phone rang".
+
+## Resumen visual para memorizar menos:
+
+    [Nada] + Adjetivo (You look sad).
+
+    LIKE + Sustantivo (You look like a ghost).
+
+    AS IF + Frase (You look as if you saw a ghost).
+
+# 8A: The Passive & Causative Have
+
+## La Pasiva (Repaso rápido)
+
+    Fórmula: Verbo BE (en el tiempo que toque) + Participio.
+
+    Uso: Cuando importa más la acción que quién la hace.
+
+    Agente: Si quieres decir quién lo hizo, usa by.
+
+        Ejemplo: "The trial is being held" (Pasiva continua).
+
+## Have something done (Causative)
+
+Esta estructura se usa para dos cosas:
+
+    Servicios pagados/encargados: Alguien hace algo por ti porque tú no puedes o no quieres.
+
+        Ejemplo: "I had my car repaired." (No lo arreglé yo, lo llevé al taller).
+
+    Experiencias negativas: Algo malo que te ha pasado (te han robado, hackeado, etc.).
+
+        Ejemplo: "I had my phone stolen."
+
+    Estructura: Verbo HAVE + Objeto + Participio. (Ojo: el have se conjuga en cualquier tiempo).
+
+## Pasiva Impersonal (Reporting Verbs)
+
+Se usa mucho en noticias para dar distancia y formalidad (It is said that...). Hay dos estructuras, y esta es la trampa del examen:
+
+Estructura A: La "Fácil" (It + Pasiva)
+
+    It + pasiva + THAT + frase normal.
+
+    Ejemplo: "It is thought that the mayor will resign." (Se piensa que el alcalde dimitirá).
+
+Estructura B: La "Avanzada" (Sujeto + Pasiva + To)
+
+Esta es la que da puntos en B2.2. Cogemos al protagonista de la noticia y lo ponemos al principio.
+
+    Sujeto + pasiva + TO + infinitivo.
+
+    Ejemplos:
+
+        Presente: "The man is said to be in his 40s." (Se dice que el hombre tiene unos 40 años).
+
+        Pasado (Perfect infinitive): "He is believed to have left the country." (Se cree que ha abandonado el país).
+
+## La Regla de Oro para transformar frases
+
+Si en el examen te piden pasar de Activa a Pasiva avanzada:
+
+    Activa: People say (1) that the thief (2) is (3) hiding.
+
+    Paso 1: Coge el sujeto de la segunda frase (the thief).
+
+    Paso 2: Pon el verbo de decir en pasiva (is said).
+
+    Paso 3: Une el resto con un "TO".
+
+    Resultado: The thief is said to be hiding.
+
+## Nota para tu Markdown sobre el Infinitivo:
+
+    Si la acción es ahora o después: usa TO + Infinitivo (to be, to go).
+
+    Si la acción ocurrió antes de que se empezara a decir: usa TO HAVE + Participio (to have gone, to have stolen).
 
 # 8B REPORTING VERBS
 
